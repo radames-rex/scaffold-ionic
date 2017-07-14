@@ -1,0 +1,12 @@
+{
+  "name": "scaffold-ionic",
+  "app_id": "d328a94c",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
